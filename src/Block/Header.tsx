@@ -157,7 +157,7 @@ const Header = () => {
 export default Header;
 const Top = styled.div``;
 const Right = styled.div`
-  width: 47%;
+  width: 48%;
 `;
 const Left = styled.div`
   width: 47%;
